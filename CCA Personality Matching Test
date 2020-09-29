@@ -1,8 +1,8 @@
-print("Title of program: CCA Matching Personality test")
+prnt("Title of program: CCA Matching Personality test")
 print()
 print("Welcome to DHS! Please answer the following questions honestly and we'll suggest a CCA for you!")
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
-print()
+print(
 
 tech1 = input("I enjoy playing ball sports.")
 
@@ -10,14 +10,14 @@ outdoor1 = input("I love to run.")
 
 music1 = input("I love to listen to music.")
 
-tech2 = input("I know how to shoot hoops.")
+tech2 = input("I know how to shoot hoops."
 
-outdoor2 = input("I pass my napfa running test with flying colours.")
+outdoor2 = input("I pass my napfa running test with flying colours.)
 
 music2 = input("I know how to play musical instruments.")
 
 
-tech_final = int(tech1) + int(tech2)
+techfinal = int(tech1) + int(tech2)
 outdoor_final = int(outdoor1) + int(outdoor2)
 music_final = int(music1)+ int(music2)
 
