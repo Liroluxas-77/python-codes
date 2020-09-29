@@ -10,16 +10,22 @@ outdoor1 = input("I love to run.")
 
 music1 = input("I love to listen to music.")
 
-tech2 = input("I know how to shoot hoops."
+tech2 = input("I know how to shoot hoops.")
 
 outdoor2 = input("I pass my napfa running test with flying colours.)
 
 music2 = input("I know how to play musical instruments.")
 
+tech3 = input("I watch basketball matches")
 
-techfinal = int(tech1) + int(tech2)
-outdoor_final = int(outdoor1) + int(outdoor2)
-music_final = int(music1)+ int(music2)
+outdoor3 = input("I can withstand harsh training in the sun")
+
+music3 = input("I whistle or tap my fingers on the table when I am bored")
+
+
+techfinal = int(tech1) + int(tech2) + int(tech3)
+outdoor_final = int(outdoor1) + int(outdoor2) + int(outdoor3)
+music_final = int(music1)+ int(music2) + int(music3)
 
 print()
 
